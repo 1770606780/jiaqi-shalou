@@ -1,0 +1,7 @@
+services:
+  # Render Blueprint 中静态站点的固定写法：type: web + runtime: static
+  - type: web
+    runtime: static
+    name: jiaqi-shalou
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- 沙金底圆角方块（品牌主色 #c99a4b） -->
+  <rect width="64" height="64" rx="14" fill="#c99a4b" />
+  <!-- 米白沙漏（#f7f3ec）：上下盖板 + X 形腔壁，与页面沙漏同一造型语言 -->
+  <g fill="none" stroke="#f7f3ec" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="14" y1="14" x2="50" y2="14" stroke-width="5" />
+    <line x1="14" y1="50" x2="50" y2="50" stroke-width="5" />
+    <path d="M19 19.5 L32 32 L45 19.5 M19 44.5 L32 32 L45 44.5" stroke-width="3.2" />
+  </g>
+  <!-- 下腔积沙：一枚小三角沙堆，与腔壁、瓶颈都留金边，小尺寸下保持清晰 -->
+  <path d="M25 43 L39 43 L32 36.5 Z" fill="#f7f3ec" />
+</svg>
